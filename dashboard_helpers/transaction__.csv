@@ -1,0 +1,30 @@
+date,description,money_out,money_in,borrowings
+1/4/2023,Opening balance,0.0,0.0,96256.87
+2/4/2023,Cheque #15,23.45,0.0,96280.32
+2/4/2023,ATM cash withdrawal,40.0,0.0,96320.32
+3/4/2023,Interac e-Transfer Send,283.42,0.0,96603.74
+4/4/2023,Cheque #16,129.45,0.0,96733.19
+4/4/2023,Bill pay - Toronto Hydro,218.0,0.0,96951.19
+8/4/2023,Cheque #17,87.25,0.0,97038.44
+8/4/2023,Bill pay - Visa@,1321.87,0.0,98360.31
+9/4/2023,ATM cash withdrawal,60.0,0.0,98420.31
+10/4/2023,Deposit - dividend cheque,0.0,89.78,98330.53
+11/4/2023,POS - Flora's antiques,48.22,0.0,98378.75
+15-04-2023,Direct deposit,0.0,2500.0,95878.75
+15-04-2023,ATM cash withdrawal,60.0,0.0,95938.75
+15-04-2023,Interac e-Transfer Send,23.47,0.0,95962.22
+19-04-2023,POS - Sam's garage,108.14,0.0,96070.36
+19-04-2023,Pre-authorized withdrawal - Manulife Insurance,39.91,0.0,96110.27
+22-04-2023,ATM cash withdrawal,80.0,0.0,96190.27
+23-04-2023,Bill pay - Rogers Cable,125.0,0.0,96315.27
+24-04-2023,POS - Tom's Dinery and Winery,87.0,0.0,96402.27
+25-04-2023,Cheque #18,45.85,0.0,96448.12
+25-04-2023,ATM cash withdrawal,100.0,0.0,96548.12
+29-04-2023,Direct deposit,0.0,2500.0,94048.12
+30-04-2023,Admin fee,16.95,0.0,94065.07
+30-04-2023,Main account interest,464.54,0.0,94488.61
+30-04-2023,Fixed rate sub-account principal.,359.5,0.0,94849.42
+30-04-2023,Fixed rate sub-account interest.,91.63,0.0,94933.6
+30-04-2023,Variable rate sub-account #1 interest,102.74,0.0,95036.34
+30-04-2023,Variable rate sub-account #2 interest,51.37,0.0,95087.71
+30-04-2023,Closing balance,3967.76,5089.78,95087.71

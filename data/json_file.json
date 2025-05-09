@@ -1,0 +1,210 @@
+{
+  "masked_account_number": "****567",
+  "start_date": "01-04-2023",
+  "end_date": "30-04-2023",
+  "transactions": [
+    {
+      "date": "01-04-2023",
+      "description": "Opening balance",
+      "money_out": null,
+      "money_in": null,
+      "borrowings": 96256.87
+    },
+    {
+      "date": "02-04-2023",
+      "description": "Cheque #15",
+      "money_out": 23.45,
+      "money_in": null,
+      "borrowings": 96280.32
+    },
+    {
+      "date": "02-04-2023",
+      "description": "ATM cash withdrawal",
+      "money_out": 40.0,
+      "money_in": null,
+      "borrowings": 96320.32
+    },
+    {
+      "date": "03-04-2023",
+      "description": "Interac e-Transfer Send",
+      "money_out": 283.42,
+      "money_in": null,
+      "borrowings": 96603.74
+    },
+    {
+      "date": "04-04-2023",
+      "description": "Cheque #16",
+      "money_out": 129.45,
+      "money_in": null,
+      "borrowings": 96733.19
+    },
+    {
+      "date": "04-04-2023",
+      "description": "Bill pay - Toronto Hydro",
+      "money_out": 218.0,
+      "money_in": null,
+      "borrowings": 96951.19
+    },
+    {
+      "date": "08-04-2023",
+      "description": "Cheque #17",
+      "money_out": 87.25,
+      "money_in": null,
+      "borrowings": 97038.44
+    },
+    {
+      "date": "08-04-2023",
+      "description": "Bill pay - Visa@",
+      "money_out": 1321.87,
+      "money_in": null,
+      "borrowings": 98360.31
+    },
+    {
+      "date": "09-04-2023",
+      "description": "ATM cash withdrawal",
+      "money_out": 60.0,
+      "money_in": null,
+      "borrowings": 98420.31
+    },
+    {
+      "date": "10-04-2023",
+      "description": "Deposit - dividend cheque",
+      "money_out": 89.78,
+      "money_in": null,
+      "borrowings": 98330.53
+    },
+    {
+      "date": "11-04-2023",
+      "description": "POS - Flora's antiques",
+      "money_out": 48.22,
+      "money_in": null,
+      "borrowings": 98378.75
+    },
+    {
+      "date": "15-04-2023",
+      "description": "Direct deposit",
+      "money_out": 2500.0,
+      "money_in": null,
+      "borrowings": 95878.75
+    },
+    {
+      "date": "15-04-2023",
+      "description": "ATM cash withdrawal",
+      "money_out": 60.0,
+      "money_in": null,
+      "borrowings": 95938.75
+    },
+    {
+      "date": "15-04-2023",
+      "description": "Interac e-Transfer Send",
+      "money_out": 23.47,
+      "money_in": null,
+      "borrowings": 95962.22
+    },
+    {
+      "date": "19-04-2023",
+      "description": "POS - Sam's garage",
+      "money_out": 108.14,
+      "money_in": null,
+      "borrowings": 96070.36
+    },
+    {
+      "date": "19-04-2023",
+      "description": "Pre-authorized withdrawal - Manulife Insurance",
+      "money_out": 39.91,
+      "money_in": null,
+      "borrowings": 96110.27
+    },
+    {
+      "date": "22-04-2023",
+      "description": "ATM cash withdrawal",
+      "money_out": 80.0,
+      "money_in": null,
+      "borrowings": 96190.27
+    },
+    {
+      "date": "23-04-2023",
+      "description": "Bill pay - Rogers Cable",
+      "money_out": 125.0,
+      "money_in": null,
+      "borrowings": 96315.27
+    },
+    {
+      "date": "24-04-2023",
+      "description": "POS - Tom's Dinery and Winery",
+      "money_out": 87.0,
+      "money_in": null,
+      "borrowings": 96402.27
+    },
+    {
+      "date": "25-04-2023",
+      "description": "Cheque #18",
+      "money_out": 45.85,
+      "money_in": null,
+      "borrowings": 96448.12
+    },
+    {
+      "date": "25-04-2023",
+      "description": "ATM cash withdrawal",
+      "money_out": 100.0,
+      "money_in": null,
+      "borrowings": 96548.12
+    },
+    {
+      "date": "29-04-2023",
+      "description": "Direct deposit",
+      "money_out": 2500.0,
+      "money_in": null,
+      "borrowings": 94048.12
+    },
+    {
+      "date": "30-04-2023",
+      "description": "Admin fee",
+      "money_out": 16.95,
+      "money_in": null,
+      "borrowings": 94065.07
+    },
+    {
+      "date": "30-04-2023",
+      "description": "Main account interest",
+      "money_out": 464.54,
+      "money_in": null,
+      "borrowings": 94488.61
+    },
+    {
+      "date": "30-04-2023",
+      "description": "Fixed rate sub-account principal.",
+      "money_out": 359.5,
+      "money_in": null,
+      "borrowings": 94849.42
+    },
+    {
+      "date": "30-04-2023",
+      "description": "Fixed rate sub-account interest.",
+      "money_out": 91.63,
+      "money_in": null,
+      "borrowings": 94933.6
+    },
+    {
+      "date": "30-04-2023",
+      "description": "Variable rate sub-account #1 interest",
+      "money_out": 102.74,
+      "money_in": null,
+      "borrowings": 95036.34
+    },
+    {
+      "date": "30-04-2023",
+      "description": "Variable rate sub-account #2 interest",
+      "money_out": 51.37,
+      "money_in": null,
+      "borrowings": 95087.71
+    },
+    {
+      "date": "30-04-2023",
+      "description": "Closing balance",
+      "money_out": 3967.76,
+      "money_in": 5089.78,
+      "borrowings": 95087.71
+    }
+  ]
+}
