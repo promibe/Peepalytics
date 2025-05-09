@@ -127,7 +127,7 @@ Phone number: +2347063083925
 
 email_address: promiseibediogwu1@gmail.com
 
-github repo:
+github repo: https://github.com/promibe/Peepalytics
 
 
 
